@@ -138,7 +138,7 @@ script:
 # Prepare Documentation
 #=============================================================================
 after_success:
-  - if [ "$BUILD_DOCUMENTATION" = "ON" ] && [ "$CC_FOR_BUILD" = "gcc" ]; then
+  - if [ "$BUILD_DOCUMENTATION" = "ON" ] && [ "$CC_FOR_BUILD" = "gcc" ] && [ "$TRAVIS_OS_NAME" == "linux" ]; then
       echo "------- Prepare Documentation -------";
       cd $TRAVIS_BUILD_DIR/build;
       make doxygen;
@@ -159,4 +159,4 @@ deploy:
   target_branch: gh-pages
   on:
     branch: cmake
-    condition: $BUILD_DOCUMENTATION = ON && $CC_FOR_BUILD = gcc
+    condition: $BUILD_DOCUMENTATION = ON && $CC_FOR_BUILD = gcc && $TRAVIS_OS_NAME = linux
