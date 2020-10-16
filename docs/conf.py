@@ -77,4 +77,10 @@ html_css_files = [
     'custom.css',
 ]
 
+html_context = {
+    'display_github': True,
+    'github_repo': 'neuronsimulator/nrn',
+    'github_version': 'master/docs/',
+}
+
 nbsphinx_allow_errors = True
