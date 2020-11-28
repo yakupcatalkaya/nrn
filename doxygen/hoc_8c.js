@@ -46,6 +46,7 @@ var hoc_8c =
     [ "moreinput", "hoc_8c.html#ab89ed3c329386e2a0bc68093d79811bd", null ],
     [ "nrn_exit", "group__hoc__functions.html#ga7eb3b5ca96b6b48d60d51b8a2121bf65", null ],
     [ "nrn_feenableexcept", "hoc_8c.html#a5ecd22a46a570fa443e63dffc653dc82", null ],
+    [ "nrn_get_hoc_jmp", "hoc_8c.html#a712276a0abd46a7e3bd70c1907f43d15", null ],
     [ "nrn_inputbuf_getline", "hoc_8c.html#aa74598bcb45eab5231f94bcab009abeb", null ],
     [ "oc_restore_input_info", "hoc_8c.html#a70f851f9d3ae67aeda296ffdd2370797", null ],
     [ "oc_save_input_info", "hoc_8c.html#a8e29e8946f25d152c4eb1e501b199c28", null ],

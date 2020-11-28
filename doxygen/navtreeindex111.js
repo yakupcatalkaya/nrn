@@ -1,5 +1,16 @@
 var NAVTREEINDEX111 =
 {
+"spmatrix_8h.html#a239dfcb6bbf0c69b8c067581ef5105de":[5,0,0,20,13,34],
+"spmatrix_8h.html#a2e10e15d877a7437db38733126fe1bc5":[5,0,0,20,13,38],
+"spmatrix_8h.html#a2e73e3ef17ff05a229a8121e4e5046e0":[5,0,0,20,13,3],
+"spmatrix_8h.html#a31334f83fc3c26579ce0c5bd1ac355b6":[5,0,0,20,13,19],
+"spmatrix_8h.html#a377c0f6725f70dadee5e47689d56e448":[5,0,0,20,13,11],
+"spmatrix_8h.html#a3ac2a62d8b364f18d94fa0b518e3184d":[5,0,0,20,13,12],
+"spmatrix_8h.html#a3f68d20e8973e484de1460993d0c8beb":[5,0,0,20,13,45],
+"spmatrix_8h.html#a46e4aadca22314789a46fedf8782b1b7":[5,0,0,20,13,52],
+"spmatrix_8h.html#a474dd747f2b9ee74323890fcc085cb19":[5,0,0,20,13,23],
+"spmatrix_8h.html#a490d9df4c540f51e0c1cd47bf7d914ff":[5,0,0,20,13,18],
+"spmatrix_8h.html#a50546c94d63d5c834b3088bcfe595a00":[5,0,0,20,13,49],
 "spmatrix_8h.html#a52e71a591615369c962bddeb3189e5cb":[5,0,0,20,13,42],
 "spmatrix_8h.html#a545527f551fe618c850bda46450b18b4":[5,0,0,20,13,14],
 "spmatrix_8h.html#a5752112da44c6ad04b013f8cad5fb38d":[5,0,0,20,13,28],
@@ -238,16 +249,5 @@ var NAVTREEINDEX111 =
 "sputils_8c.html#ab1d4383be3161ac2c68b2f8d344cd587":[5,0,0,20,16,29],
 "sputils_8c.html#ab222e534835471a1e997139c295de8cc":[5,0,0,20,16,21],
 "sputils_8c.html#abd2e76f31787de296f58c292d31b1d05":[5,0,0,20,16,31],
-"sputils_8c.html#abf4445dd101f58cf9d64d3918879d559":[5,0,0,20,16,24],
-"sputils_8c.html#ac0c149f79e39647f28305f5eeb472acc":[5,0,0,20,16,36],
-"sputils_8c.html#ac4fabdee4925e5074db244873c1b0d71":[5,0,0,20,16,22],
-"sputils_8c.html#ac4fe16b848533a5e9ae19baa7fa3afda":[5,0,0,20,16,32],
-"sputils_8c.html#acbe7cddf81ea16407ac58935d85f84fc":[5,0,0,20,16,27],
-"sputils_8c.html#ace0ea0933fe4c95dfaefb477545dee36":[5,0,0,20,16,20],
-"sputils_8c.html#acfc51790fbe1467dd3877e01a1e934db":[5,0,0,20,16,3],
-"sputils_8c.html#ad04b5a9527903c28f45d06a3a4d444fd":[5,0,0,20,16,1],
-"sputils_8c.html#ad64503c582e0f1c9835878da2bb16396":[5,0,0,20,16,38],
-"sputils_8c.html#adc78c8555492da08a1535dd00e1259df":[5,0,0,20,16,5],
-"sputils_8c.html#ae51f003ca8c4ba9bdba94c90ea0b8b82":[5,0,0,20,16,23],
-"sputils_8c.html#af0ccf97b21d7cdf58132a813851f4cb5":[5,0,0,20,16,33]
+"sputils_8c.html#abf4445dd101f58cf9d64d3918879d559":[5,0,0,20,16,24]
 };

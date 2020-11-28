@@ -172,7 +172,7 @@ var searchData=
   ['rootnodecount_5f',['rootnodecount_',['../class_cvode_thread_data.html#a5feef548280ef263b70d9a00d34c4414',1,'CvodeThreadData']]],
   ['roots',['roots',['../struct_nrn_thread.html#a9ea36709d42bd2b5117c91e59f4872d7',1,'NrnThread']]],
   ['rot_5f',['rot_',['../class_rotate3_band.html#a9c0b705b07ef68adcdb94ce1fa63e2a1',1,'Rotate3Band']]],
-  ['row',['row',['../struct_s_p_m_a_t.html#a6f27043e0497cd59f7c5016d761540d8',1,'SPMAT::row()'],['../struct_menuitem.html#a8deee564cc60dbb04123648b944cdd9d',1,'Menuitem::row()'],['../structelm.html#abffce223e53ee39819b5bd2b7a5e5ce9',1,'elm::row()'],['../struct_matrix_element.html#afcdb85a1a4af165bcc75d1441523e63d',1,'MatrixElement::Row()'],['../nonlin_8c.html#a1a9e6ccad477aa17d76aa98b123720b9',1,'row():&#160;nonlin.c']]],
+  ['row',['Row',['../struct_matrix_element.html#afcdb85a1a4af165bcc75d1441523e63d',1,'MatrixElement::Row()'],['../struct_s_p_m_a_t.html#a6f27043e0497cd59f7c5016d761540d8',1,'SPMAT::row()'],['../struct_menuitem.html#a8deee564cc60dbb04123648b944cdd9d',1,'Menuitem::row()'],['../structelm.html#abffce223e53ee39819b5bd2b7a5e5ce9',1,'elm::row()'],['../nonlin_8c.html#a1a9e6ccad477aa17d76aa98b123720b9',1,'row():&#160;nonlin.c']]],
   ['rowslinked',['RowsLinked',['../struct_matrix_frame.html#ac2dae4cc37faa053b1792afb8955012e',1,'MatrixFrame']]],
   ['rowst',['rowst',['../sparse_2lineq_8c.html#a18f36d437b16d60ed6eb6da49b719754',1,'rowst():&#160;lineq.c'],['../lineq_8h.html#a18f36d437b16d60ed6eb6da49b719754',1,'rowst():&#160;lineq.c']]],
   ['rpat',['rpat',['../edef_8h.html#adaf28c12fc49f8a9ce6a6b4311fb1c3e',1,'edef.h']]],

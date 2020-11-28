@@ -318,6 +318,7 @@ var hierarchy =
     [ "SaveState::NetConState", "struct_save_state_1_1_net_con_state.html", null ],
     [ "NetCvode", "class_net_cvode.html", null ],
     [ "NetCvodeThreadData", "class_net_cvode_thread_data.html", null ],
+    [ "newobj1_err_t", "structnewobj1__err__t.html", null ],
     [ "Node", "struct_node.html", null ],
     [ "SaveState::NodeState", "struct_save_state_1_1_node_state.html", null ],
     [ "NoIVGraphVector", "class_no_i_v_graph_vector.html", [
@@ -540,8 +541,8 @@ var hierarchy =
     [ "StandardPicker", "class_standard_picker.html", [
       [ "ScenePicker", "class_scene_picker.html", null ]
     ] ],
-    [ "SaveState::StateStructInfo", "struct_save_state_1_1_state_struct_info.html", null ],
     [ "StateStructInfo", "struct_state_struct_info.html", null ],
+    [ "SaveState::StateStructInfo", "struct_save_state_1_1_state_struct_info.html", null ],
     [ "StateTransitionEvent", "class_state_transition_event.html", null ],
     [ "Stepper", null, [
       [ "HocValStepper", "class_hoc_val_stepper.html", null ]

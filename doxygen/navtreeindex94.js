@@ -1,5 +1,16 @@
 var NAVTREEINDEX94 =
 {
+"openclfeatures_8h.html":[5,0,0,18,0,10],
+"openclfeatures_8h.html#a134ae84400d184ed2570e3270d5472c2":[5,0,0,18,0,10,11],
+"openclfeatures_8h.html#a13f567828a20f9ab44521b1cf742c17c":[5,0,0,18,0,10,9],
+"openclfeatures_8h.html#a1597d08777066cd00a3f2846cf6ae7a8":[5,0,0,18,0,10,12],
+"openclfeatures_8h.html#a271eac713bfea64f060a65830c812d11":[5,0,0,18,0,10,2],
+"openclfeatures_8h.html#a2bf9e57a8d20903de8d1e3905eed8150":[5,0,0,18,0,10,13],
+"openclfeatures_8h.html#a3fe3c9768e4efbbef3007d471217cf1c":[5,0,0,18,0,10,4],
+"openclfeatures_8h.html#a4581167d26e2520913721fb32bed1845":[5,0,0,18,0,10,3],
+"openclfeatures_8h.html#a5aca32f95a4630a011ee076c1cb12650":[5,0,0,18,0,10,7],
+"openclfeatures_8h.html#a7adc88eeeaadd91cc3e8a4715983be6f":[5,0,0,18,0,10,10],
+"openclfeatures_8h.html#a7d1fa84d7a60aff1e1894fbb98b41c7e":[5,0,0,18,0,10,0],
 "openclfeatures_8h.html#a7ea9ec47bf73e492e6fe08cf317ea765":[5,0,0,18,0,10,6],
 "openclfeatures_8h.html#abf36f906b45e4f3ec0999b270cd3a11f":[5,0,0,18,0,10,1],
 "openclfeatures_8h.html#aced8a72ebf91c20ca5e7819273e37eca":[5,0,0,18,0,10,14],
@@ -238,16 +249,5 @@ var NAVTREEINDEX94 =
 "parsact_8c.html#a33a6a01295bc99386fc1ffe32ba05c43":[5,0,0,9,23,23],
 "parsact_8c.html#a3fb6de7fb035756ec9455d5a1da6ec58":[5,0,0,9,23,10],
 "parsact_8c.html#a40c754af504cfa111925ddc55c990e73":[5,0,0,9,23,8],
-"parsact_8c.html#a471ddc3c29472fb250699e3b00926fb7":[5,0,0,9,23,5],
-"parsact_8c.html#a4f7606b22fb6ebf8979747dbd2116091":[5,0,0,9,23,16],
-"parsact_8c.html#a506a52fcb82e2156f74ae6365890e275":[5,0,0,9,23,31],
-"parsact_8c.html#a5dae91490a20ea97731db38799b9aa6a":[5,0,0,9,23,4],
-"parsact_8c.html#a687ba432225ccc1c66274d97fa396fd6":[5,0,0,9,23,38],
-"parsact_8c.html#a6c4c2c39cf7ae786ed172d6f67209ee0":[5,0,0,9,23,25],
-"parsact_8c.html#a6e9ff794178c06590434e971ebe6b9cd":[5,0,0,9,23,0],
-"parsact_8c.html#a6ee8310512502489d37dea5524cac5db":[5,0,0,9,23,6],
-"parsact_8c.html#a73ef010c6578ab09e5869b483437c15d":[5,0,0,9,23,37],
-"parsact_8c.html#a8719e7290bc025e351301202bb07eb63":[5,0,0,9,23,41],
-"parsact_8c.html#a8e5b2b5b910907a51cf34227f899a9d2":[5,0,0,9,23,24],
-"parsact_8c.html#a96d91639a0516c78af9f6708eeba2ae5":[5,0,0,9,23,15]
+"parsact_8c.html#a471ddc3c29472fb250699e3b00926fb7":[5,0,0,9,23,5]
 };
