@@ -1,5 +1,8 @@
 var NAVTREEINDEX116 =
 {
+"struct_symbol.html#afc28f63d21c1c4137a57287b2a660b12":[2,0,1,1],
+"struct_symbol.html#afe5ca3570397baab2ebb730ebc84ae08":[2,0,1,3],
+"struct_symlist.html":[4,0,428],
 "struct_symlist.html#a27c121106e09a432d6f27d9c07808816":[4,0,428,0],
 "struct_symlist.html#a29b88e5d5a45729c79a2d0aee018e957":[4,0,428,1],
 "struct_symtab.html":[4,0,429],
@@ -246,8 +249,5 @@ var NAVTREEINDEX116 =
 "structregexp.html#ab87621bdea03ed2441e45f5f10f25efe":[4,0,362,0],
 "structregexp.html#aea5fc942f6c24ab6fdf6dce5909ccb35":[4,0,362,5],
 "structrow__elt.html":[4,0,375],
-"structrow__elt.html#a714455a7395201712d9ee566224ed245":[4,0,375,2],
-"structrow__elt.html#ab0a48c284445269f0d0e2ca815c380d6":[4,0,375,1],
-"structrow__elt.html#ad6f69410f39a6c78597bfce336229f98":[4,0,375,0],
-"structrow__elt.html#afcc5cb32f90fc74038105451277510b0":[4,0,375,3]
+"structrow__elt.html#a714455a7395201712d9ee566224ed245":[4,0,375,2]
 };

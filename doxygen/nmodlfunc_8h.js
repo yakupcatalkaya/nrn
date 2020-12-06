@@ -6,7 +6,6 @@ var nmodlfunc_8h =
     [ "add_sens_statelist", "nmodlfunc_8h.html#a27ee929df1c018c63c905626bafe8af2", null ],
     [ "bablk", "nmodlfunc_8h.html#a848aa55d4389eee54ba5df1401bda0f7", null ],
     [ "breakpoint_current", "nmodlfunc_8h.html#a28f6bfe2e9db2817be8d4badd32e676d", null ],
-    [ "c_out", "nmodlfunc_8h.html#a9fae508a2b90256d0d8af380ab2a5562", null ],
     [ "c_out", "nmodlfunc_8h.html#a6b0230174877545c886b503d451e097d", null ],
     [ "c_out_vectorize", "nmodlfunc_8h.html#a2f38015b4a6ca29def2e02aea08e45a3", null ],
     [ "check_block", "nmodlfunc_8h.html#a2130d2479f1bbb4aebe05cc8fae0128d", null ],

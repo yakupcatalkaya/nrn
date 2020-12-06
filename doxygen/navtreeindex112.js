@@ -1,5 +1,8 @@
 var NAVTREEINDEX112 =
 {
+"sputils_8c.html#ab222e534835471a1e997139c295de8cc":[5,0,0,20,16,21],
+"sputils_8c.html#abd2e76f31787de296f58c292d31b1d05":[5,0,0,20,16,31],
+"sputils_8c.html#abf4445dd101f58cf9d64d3918879d559":[5,0,0,20,16,24],
 "sputils_8c.html#ac0c149f79e39647f28305f5eeb472acc":[5,0,0,20,16,36],
 "sputils_8c.html#ac4fabdee4925e5074db244873c1b0d71":[5,0,0,20,16,22],
 "sputils_8c.html#ac4fe16b848533a5e9ae19baa7fa3afda":[5,0,0,20,16,32],
@@ -246,8 +249,5 @@ var NAVTREEINDEX112 =
 "struct_concentration___pair.html#ad03699fcf357049c373802d40440d7e2":[4,0,60,1],
 "struct_current___triple.html":[4,0,64],
 "struct_current___triple.html#a1d30b5764e9486c02e96456124421bd9":[4,0,64,2],
-"struct_current___triple.html#a6c79909898ac211c159093d338c2ac2d":[4,0,64,0],
-"struct_current___triple.html#a7ffe6972b11593e6f50b58aa154fd0cc":[4,0,64,1],
-"struct_current_data.html":[4,0,65],
-"struct_current_data.html#a1089d8507e6c9dc294c12c1f1c3b9b7a":[4,0,65,3]
+"struct_current___triple.html#a6c79909898ac211c159093d338c2ac2d":[4,0,64,0]
 };
